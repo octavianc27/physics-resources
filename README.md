@@ -7,6 +7,8 @@ I'll update this page whenever I find something useful. Meanwhile, if you have a
 
 [Calculus](#calculus)
 
+[Classical Mechanics](#classical-mechanics)
+
 [Quantum Optics](#quantum-optics)
 
 [Computational Physics](#computational-physics)
@@ -19,6 +21,12 @@ https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
 https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/
 
 https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
+
+
+# Classical Mechanics
+https://www.youtube.com/playlist?list=PL47F408D36D4CF129
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV
 
 
 # Quantum Optics
