@@ -9,6 +9,10 @@ I'll update this page whenever I find something useful. Meanwhile, if you have a
 
 [Classical Mechanics](#classical-mechanics)
 
+[Electricity and Magnetism](#electricity-and-magnetism)
+
+[Thermal and Statistical Physics](#thermal-and-statistical-physics)
+
 [Quantum Optics](#quantum-optics)
 
 [Computational Physics](#computational-physics)
@@ -27,6 +31,18 @@ https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
 https://www.youtube.com/playlist?list=PL47F408D36D4CF129
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV
+
+
+# Electricity and Magnetism
+https://www.youtube.com/playlist?list=PLr3m114zA5dHPK-ckNW_QvikiVgrLzqrW
+
+https://www.youtube.com/playlist?list=PLmNMkuCOhP2sGhvByEAq2LAS2QMFDPQM-
+
+
+# Thermal and Statistical Physics
+https://www.youtube.com/playlist?list=PLDDCux6-RwmVQdtr0mt8BmzE7jhAJk-Sx
+
+https://www.youtube.com/playlist?list=PLMcpDl1Pr-vjXYLBoIULvlWGlcBNu8Fod
 
 
 # Quantum Optics
