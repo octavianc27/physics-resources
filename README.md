@@ -2,6 +2,7 @@
 This page is a collection of freely accessible physics lecture videos, online courses and other useful materials, generally aimed at undergrad students and at anyone who is interested in learning physics. 
 I'll update this page whenever I find something useful. Meanwhile, if you have any suggestions or see that something is not working, please leave a request.
 
+Unless otherwise specified, none of the resources are mine. You are free to copy, modify and use this list for any purpose.
 # Contents
 [Linear Algebra](#linear-algebra)
 
