@@ -4,8 +4,11 @@ I'll update this page whenever I find something useful. Meanwhile, if you have a
 
 # Contents
 [Linear Algebra](#linear-algebra)
+
 [Calculus](#calculus)
+
 [Quantum Optics](#quantum-optics)
+
 [Computational Physics](#computational-physics)
 
 # Linear Algebra
